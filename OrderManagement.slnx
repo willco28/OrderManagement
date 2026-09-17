@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="OrderManagement.API/OrderManagement.API.csproj" />
+  <Project Path="OrderManagement.Domain/OrderManagement.Domain.csproj" />
+  <Project Path="OrderManagement.Infrastructure/OrderManagement.Infrastructure.csproj" />
+  <Project Path="OrderManagement.Test/OrderManagement.Test.csproj" />
+</Solution>
