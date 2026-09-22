@@ -89,7 +89,6 @@ Aplikasi memakai **Clean Architecture sederhana** dengan 3 layer:
 
 ### Menjalankan via Docker Compose (direkomendasikan)
 
-```bash
 # Clone repo
 git clone <url-repo>
 cd OrderManagement
